@@ -1,0 +1,11 @@
+# Virtual env
+fastenv/
+
+# database
+sql_app.db
+
+# migration
+migrations/
+
+# server log
+server_time_log.log
